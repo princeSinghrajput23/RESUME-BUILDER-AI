@@ -29,6 +29,10 @@ Multilingual resume support
 
 Mobile app version for Android and iOS platforms
 
+## How to run project 
+1 clone the repository.
+2 install the required libraries.
+
 ## video presentation 
 https://drive.google.com/file/d/1gNp4Yiv_KtJ0b2OU5HRW9lip8ASnreDY/view?usp=drive_link
 
