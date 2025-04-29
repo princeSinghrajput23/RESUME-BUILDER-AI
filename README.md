@@ -31,3 +31,6 @@ Mobile app version for Android and iOS platforms
 
 ## video presentation 
 https://drive.google.com/file/d/1gNp4Yiv_KtJ0b2OU5HRW9lip8ASnreDY/view?usp=drive_link
+
+## Project report
+https://drive.google.com/file/d/1pEXXfheZdUMTz2Et9veYtKC1eIMXkseH/view?usp=drive_link
